@@ -1,6 +1,6 @@
 ﻿
 
-# ECash-Address-Inspector
+# eCash-Address-Inspector
 
 This project retrieves information about ECash addresses through the Blockchair API, including balance, first received, last received, first spent, last spent, and the number of unused outputs. The list of addresses to query is read from a CSV file, and the query results are written to a new CSV file.
 
